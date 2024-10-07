@@ -1,4 +1,4 @@
-/** Routes for users of pg-intro-demo. */
+/** Routes for companies of Biztime. */
 
 const express = require("express");
 const ExpressError = require("../expressError")
